@@ -1,3 +1,3 @@
 #basic data structure of javascript
 
-first i have written basic letters matching between two strings
+## written several basic programs using data structure best practices.
