@@ -26,4 +26,4 @@ function validAnagram(first, second) {
 }
 
 // {a: 0, n: 0, g: 0, r: 0, m: 0,s:1}
-validAnagram("anagrams", "agaramm");
+console.log(validAnagram("anagrams", "agasramn"));
