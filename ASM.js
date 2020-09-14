@@ -13,4 +13,5 @@ function same(arr1, arr2) {
   return true;
 }
 
-same([1, 2, 3, 2], [9, 1, 4, 4]);
+let result = same([1, 2, 3, 2], [9, 1, 4, 4]);
+console.log(result);
